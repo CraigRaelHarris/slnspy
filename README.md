@@ -18,3 +18,7 @@ To get a mermaid diagram of reverse dependencies only of specific projects: `sln
 ### Future Work
 
 Intention is to evolve this into a VS extension.
+
+### Links
+
+- https://mermaid.js.org/
