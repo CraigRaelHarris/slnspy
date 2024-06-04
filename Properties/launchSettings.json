@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "slnspy": {
+      "commandName": "Project",
+      "commandLineArgs": "projects D:/code/core-service/Core.sln AVA.Data.Sqlite"
+    }
+  }
+}
